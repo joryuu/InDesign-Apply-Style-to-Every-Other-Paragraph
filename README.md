@@ -17,7 +17,7 @@ This script applies a selected paragraph style to every other paragraph in a sel
 
 ## How to Use
 
-1. In InDesign, select the text frame containing the story you want to format.
+1. In InDesign, use your cursor or ctrl/cmd+A to select all the text you want to format.
 2. Open the Scripts panel: **Window → Utilities → Scripts**.
 3. Double-click **Apply_Style_to_Every_Other_Paragraph.jsx** to run it.
 4. In the dialog, select the paragraph style you want to apply from the dropdown.
@@ -36,7 +36,7 @@ This script applies a selected paragraph style to every other paragraph in a sel
 
 ## Requirements
 
-* Adobe InDesign (tested on version 20.x).
+* Adobe InDesign (tested on version 21.x).
 * An active document with at least one paragraph style defined.
 * A text frame selected on the canvas before running the script.
 
