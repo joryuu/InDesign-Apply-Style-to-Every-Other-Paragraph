@@ -1,0 +1,1 @@
+# InDesign-Apply-Style-to-Every-Other-Paragraph
